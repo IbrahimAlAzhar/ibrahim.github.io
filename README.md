@@ -2,9 +2,6 @@
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
 
-
-
-
 ### Education
 - MS in Computer Science, Northern Illinois University, United States (August 2023 - Present)
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
@@ -94,9 +91,7 @@ subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https
  
 
 ### Machine Learning:
-- Experienced about:
-- Data analysis, Linear Algebra, Probability, and Statistics behind Machine Learning Models (Linear Regression, Logistic, SVM, DT, SVM, NB).
-- Feature Importance, Dimensionality Reduction, Weight Initialization, Batch Normalization, Backpropagation, Activation functions (SGD, ADAM, NAG, Adagrad, Adadelta, RMSProp) 
+- Experienced in Data Analysis, Linear Algebra, Probability, and Statistics behind Machine Learning Models (Linear Regression, Logistic, SVM, DT, SVM, NB). Also, Feature Importance, Dimensionality Reduction, Weight Initialization, Batch Normalization, Backpropagation, Activation functions (SGD, ADAM, NAG, Adagrad, Adadelta, RMSProp) 
 
 ### Programming
 ACM Problem Solving: Over 350 problems were solved by various online judges. Over 200 problems from Codeforces,
