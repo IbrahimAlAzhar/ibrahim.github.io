@@ -4,7 +4,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
 <a href="#Research Interests"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Interests</button></a>
-
+<a href="#Research Experience"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Experience</button></a>
 
 ### Education
 - MS in Computer Science, Northern Illinois University, United States (August 2023 - Present)
