@@ -13,7 +13,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 <img src="LLM.jpg" alt="Logo" width="420" height="280"> 
 - Information Extraction (text and images) in Science of Science, utilizing Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 - Utilizing BERTopic, LLM with zero shot, few shots, chain/tree/graph of thoughts, self-consistency, prompt tuning, prefix tuning, fine-tuning with LoRa/QLora/Dora. 
-- Jailbreaking, Evaluation, and Hallucination of LLM, and Tiny LLm. 
+- Jailbreaking, Evaluation, and Hallucination of LLM and Tiny LLm. 
 - Optimizing LLM performance: time complexity 0(n) with Mamba (state space models), Flash Attention, KV cache, xLSTM, Deja Vu, Sparse LLM, Galore/Q-Galore, and scalable matrix multiplication.
 - Open Source LLM: Llama, OLMO, Ollama, Dolma, Paloma.
 - Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
@@ -42,6 +42,8 @@ vulnerable or not.
 
 ### Projects
 - Medical datasets: MIMIC IV. Predicting mortality, hospital length of stay [MIMIC](https://github.com/IbrahimAlAzhar/Work-on-Medical-data-MIMIC-IV-)
+<img src="DL.png" alt="Logo" width="400" height="250"> 
+
 - Amazon Review Analysis: Using data preprocessing, various machine learning
 and deep learning models are applied to classify the customer review for the product. [ARA](https://github.com/IbrahimAlAzhar/Amazon_Review_Analysis_ML/)
 - Image classification: Using CNN, Graph ConvNet, Inception Network, CNN, LeNet, AlexNet, GoogleNet, VGG16, and VGG19. [Image](https://github.com/IbrahimAlAzhar/MachineLearningWorks%7D%7Bhttps://github/Machine-Learning-works)
@@ -52,12 +54,12 @@ and deep learning models are applied to classify the customer review for the pro
 
 
 ### Experience
-- Research Assistant, Northern Illinois University, Dekalb, IL (May 2024 - Continue)
+#### Research Assistant, Northern Illinois University, Dekalb, IL (May 2024 - Continue):
 - Extracting texts and images from scientific articles using large language models. Incorporating LLM techniques
 such as zero-shot, few-shot, chain of thoughts, self-consistency, and fine-tuning.
 - LLM is used for code vulnerability detection and image analysis with large vision language models, superpixels, diffusion models, vision transformers, etc.
 
-- Teaching Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
+#### Teaching Assistant, Northern Illinois University, Dekalb, IL (Aug 2023 - May 2024)
 - C++, Data Structures, and Algorithm Analysis
 - Conducted weekly lab sessions for over 50 students, facilitating hands-on exercises in Data structures (BFS, DFS, Linked list) and Algorithms.
 
@@ -93,7 +95,7 @@ subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https
 
 ### Machine Learning:
 - Experienced about:
-- Data analysis, Linear Algebra, Probability and Statistics behind Machine Learning Models (Linear Regression, Logistic, SVM, DT, SVM, NB).
+- Data analysis, Linear Algebra, Probability, and Statistics behind Machine Learning Models (Linear Regression, Logistic, SVM, DT, SVM, NB).
 - Feature Importance, Dimensionality Reduction, Weight Initialization, Batch Normalization, Backpropagation, Activation functions (SGD, ADAM, NAG, Adagrad, Adadelta, RMSProp) 
 
 ### Programming
