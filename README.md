@@ -14,8 +14,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 - Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
 
 ### Research Experience
-- Research Experience
-- CONFERENCE PAPER
+- Research Experience (Conference Paper)
 - I. A. Azhar, S. Ahmed, M. S. Islam, and A. Khatun, ”Identifying Author in Bengali Literature by Bi‑LSTM with Attention Mechanism,”
   2021 24th International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2021,
   pp. 1‑6, doi: 10.1109/ICCIT54785.2021.9689840.
