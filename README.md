@@ -1,7 +1,8 @@
 # Machine Learning Researcher
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
-![Logo](azhar.jpg)
+<img src="azhar.jpg" alt="Logo" width="200" height="200">
+
 
 
 ### Education
