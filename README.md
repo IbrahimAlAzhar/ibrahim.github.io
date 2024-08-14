@@ -40,12 +40,7 @@ vulnerable or not.
 - Amazon Review Analysis: Using data preprocessing, various machine learning
 and deep learning models are applied to classify the customer review for the product. [ARA](https://github.com/IbrahimAlAzhar/Amazon_Review_Analysis_ML/)
 - Image classification: Using CNN, Graph ConvNet, Inception Network, CNN, LeNet, AlexNet, GoogleNet, VGG16, and VGG19. [Image](https://github.com/IbrahimAlAzhar/MachineLearningWorks%7D%7Bhttps://github/Machine-Learning-works)
-<!-- - Classification on IMDB, MNIST, Iris dataset: Used several Machine learning models such as KNN, Naive Bayes, Linear Regres‑
-sion, Decision Tree, Ensemble Learning, and various deep learning models like CNN, RNN, GRU, and BiLSTM to classify. 
-- Online Newspaper: It is a web‑based project using Python, Django, and Javascript where anyone can read news with monthly
-payment subscription.
-- Apply CNN, LeNet, AlexNet, GoogleNet, ResNet, VGG16, and VGG19 models as well as transfer learning model on
-image data -->
+<!-- Classification on IMDB, MNIST, Iris dataset: Used several Machine learning models such as KNN, Naive Bayes, Linear Regression, Decision Tree, Ensemble Learning, and various deep learning models like CNN, RNN, GRU, and BiLSTM to classify. Online Newspaper: It is a web‑based project using Python, Django, and Javascript, and anyone can read news with a monthly subscription. Apply CNN, LeNet, AlexNet, GoogleNet, ResNet, VGG16, and VGG19 models as well as transfer learning model on image data -->
 
 
 
