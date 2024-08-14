@@ -87,6 +87,7 @@ various modules using the OOP Database model
 which are then automatically converted with GPA. Students can only see their grades. [EMM](https://github.com/IbrahimAlAzhar/ExamMarksManagement)
 - Newspaper (Python, Django): Developed a fully web-based project using Python, Django, and Javascript, allowing anyone to read the news with a monthly
 subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https://github.com/IbrahimAlAzhar/NewsPaper)
+<img src="Django.jpg" alt="Logo" width="400" height="250"> 
 - MyShop: Sell and purchase items from a shop. Using HTML, CSS, Python, and Django. [MyShop](https://github.com/IbrahimAlAzhar/Myshop)
  
 
