@@ -10,8 +10,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
 
 ### Research Interests:
-<!--<img src="azhar.jpg" alt="Logo" width="200" height="200"> -->
-
+<img src="LLM.jpg" alt="Logo" width="350" height="300"> 
 - Information Extraction (text and images) in Science of Science, utilizing Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 - Utilizing BERTopic, LLM with zero shot, few shots, chain/tree/graph of thoughts, self-consistency, prompt tuning, prefix tuning, fine-tuning with LoRa/QLora/Dora. 
 - Jailbreaking, Evaluation, and Hallucination of LLM, and Tiny LLm. 
