@@ -10,9 +10,11 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
 
 ### Research Interests:
+<!--<img src="azhar.jpg" alt="Logo" width="200" height="200"> -->
+
 - Information Extraction (text and images) in Science of Science, utilizing Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 - Utilizing BERTopic, LLM with zero shot, few shots, chain/tree/graph of thoughts, self-consistency, prompt tuning, prefix tuning, fine-tuning with LoRa/QLora/Dora. 
-- Jailbreaking, hallucination in LLM, and Tiny LLm. 
+- Jailbreaking, Evaluation, and Hallucination of LLM, and Tiny LLm. 
 - Optimizing LLM performance: time complexity 0(n) with Mamba (state space models), Flash Attention, KV cache, xLSTM, Deja Vu, Sparse LLM, Galore/Q-Galore, and scalable matrix multiplication.
 - Open Source LLM: Llama, OLMO, Ollama, Dolma, Paloma.
 - Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
