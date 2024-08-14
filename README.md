@@ -1,6 +1,9 @@
 # Machine Learning Researcher
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
+![Logo](azhar.jpg)
+
+
 ### Education
 - MS in Computer Science, Northern Illinois University, United States (August 2023 - Present)
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
