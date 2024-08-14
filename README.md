@@ -1,7 +1,8 @@
+<img src="azhar.jpg" alt="Logo" width="200" height="200">
 # Machine Learning Researcher
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
-<img src="azhar.jpg" alt="Logo" width="200" height="200">
+
 
 
 
@@ -27,7 +28,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
   
 ### In Progress
 - “Assessing the limitations sections in scientific article with LLM.”. Here, we extract the scientific article's limitations sections using a parsing tool. After extracting the limitation sections, we applied various LLMs for topic modeling GPT 3.5, GPT 4, Llama 2, and LLM for summarization.
-- “Generate open review from scholarly article”. Take the text from a scientific article and generate the open review using LLM.
+- “Generate open review from the scholarly article.” Take the text from a scientific article and generate the open review using LLM.
 - “Generate Limitations from the scholarly article.” Considering various sections and texts from scholarly articles and generating limitation sections using various LLMs and Retrieval Augmented Generation.
 <!-- - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
 • “Scientific Image as a Limitation.” We are working on images of scientific articles and using algorithms like
@@ -40,7 +41,7 @@ vulnerable or not.
 
 
 ### Projects
-- Worked on medical datasets, MIMIC IV. Predicting mortality, hospital length of stay [MIMIC](https://github.com/IbrahimAlAzhar/Work-on-Medical-data-MIMIC-IV-)
+- Medical datasets: MIMIC IV. Predicting mortality, hospital length of stay [MIMIC](https://github.com/IbrahimAlAzhar/Work-on-Medical-data-MIMIC-IV-)
 - Amazon Review Analysis: Using data preprocessing, various machine learning
 and deep learning models are applied to classify the customer review for the product. [ARA](https://github.com/IbrahimAlAzhar/Amazon_Review_Analysis_ML/)
 - Image classification: Using CNN, Graph ConvNet, Inception Network, CNN, LeNet, AlexNet, GoogleNet, VGG16, and VGG19. [Image](https://github.com/IbrahimAlAzhar/MachineLearningWorks%7D%7Bhttps://github/Machine-Learning-works)
