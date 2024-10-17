@@ -6,6 +6,9 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 <a href="#Research Interests"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Interests</button></a>
 <a href="#Research Experience"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Experience</button></a> 
 
+### CV
+[Download my CV](./Ibrahim_Al_Azher_CV.pdf)
+ 
 
 ### Latest 
 - Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
