@@ -4,10 +4,19 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 
 <a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
 <a href="#Research Interests"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Interests</button></a>
-<a href="#Research Experience"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Experience</button></a>
+<a href="#Research Experience"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Experience</button></a> 
+
+
+### Latest 
+- Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
+- Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
+IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
+- Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
+BigData 2024) as a poster.
 
 ### Education
-- PhD in Computer Science, Northern Illinois University, United States (August 2023 - Present)
+- PhD in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
+- MS in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
 
 ### Research Interests:
@@ -19,19 +28,26 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 - Open Source LLM: Llama, OLMO, Ollama, Dolma, Paloma.
 - Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
 
-### Research Experience
-- Research Experience (Conference Paper)
-- I. A. Azhar, S. Ahmed, M. S. Islam, and A. Khatun, ”Identifying Author in Bengali Literature by Bi‑LSTM with Attention Mechanism,”
+### Published
+- I. A. Azher, S. Ahmed, M. S. Islam, and A. Khatun, ”Identifying Author in Bengali Literature by Bi‑LSTM with Attention Mechanism,”
   2021 24th International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2021,
-  pp. 1‑6, doi: 10.1109/ICCIT54785.2021.9689840.
-- Description: Proposed a Bi‑LSTM model with a self‑attention mechanism by Glove embedding to identify the Author. Used Deep Learning models like CNN, RNN, LSTM, GRU, BiLSTM, and Fast text and showed
-   proposed model outperforms.
+  pp. 1‑6, doi: 10.1109/ICCIT54785.2021.9689840. Description: Proposed a Bi‑LSTM model with a self‑attention mechanism by Glove embedding to identify the Author. Used Deep Learning models like CNN, RNN, LSTM, GRU, BiLSTM, and Fast text and showed proposed model outperforms.
+  - I. A. Azher, V. Reddy, A. P. Akella, H. Alhoori, "LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations", 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong. We extracted the scientific article’s limitations sections using a parsing tool. Here, each topic contains the title and ‘Topic Summary.’ This study focuses on effectively extracting and understanding these limitations through topic modeling and text summarization, utilizing the capabilities of LLMs. We extracted limitations from research articles and applied an LLM-based topic modeling integrated with the BERtopic approach to generate a title for each topic and ‘Topic Sentences.’ To enhance comprehension and accessibility, we employed LLM-based text summarization to create concise and generalizable summaries for each topic’s Topic Sentences and produce a ‘Topic Summary.’ Our
+experimentation involved prompt engineering, fine-tuning LLM and BERTopic, and integrating BERTopic with LLM to generate topics, titles, and a summary.
+- I. A. Azher, H. Alhoori, "Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach". 11th
+IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). We are generating ‘Limitation’ based on other
+section texts such as ‘Abstract,’ ‘Introduction,’ ‘Methodology,’ ‘Related Work,’ ‘Experiment’, and ’Conclusion.’ We experimented with various LLMs such as BART, T5, Pegasus, GPT 3.5, GPT 4, Gemini, and added Retrieval Augmented Generation
+(RAG) with GPT 3.5 to generate the ‘limitation’ of research papers. We found that GPT 3.5 with RAG performs better than other models. We will extend our work by incorporating graph neural networks to generate limitations.
+- I. A. Azher, H. Alhoori, "Mitigating Visual Limitations of Research Papers" has been accepted at 2024 IEEE International Conference on Big Data (IEEE
+BigData 2024). In this work, we focus on visual-related limitations, which refer to issues like the clarity of charts, diagrams, unclear captions or descriptions, or methodological constraints in generating such visual and tabular data using multimodal LLM. 
+  
+
   
 ### In Progress
-- “Assessing the limitations sections in scientific article with LLM.”. Here, we extract the scientific article's limitations sections using a parsing tool. After extracting the limitation sections, we applied various LLMs for topic modeling GPT 3.5, GPT 4, Llama 2, and LLM for summarization.
-- “Generate open review from the scholarly article.” Take the text from a scientific article and generate the open review using LLM.
+<!-- - “Assessing the limitations sections in scientific article with LLM.”. Here, we extract the scientific article's limitations sections using a parsing tool. After extracting the limitation sections, we applied various LLMs for topic modeling GPT 3.5, GPT 4, Llama 2, and LLM for summarization.
+ - “Generate open review from the scholarly article.” Take the text from a scientific article and generate the open review using LLM. 
 - “Generate Limitations from the scholarly article.” Considering various sections and texts from scholarly articles and generating limitation sections using various LLMs and Retrieval Augmented Generation.
-<!-- - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
+ - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
 • “Scientific Image as a Limitation.” We are working on images of scientific articles and using algorithms like
 superpixels or other stuff to improve the quality.
 - “Can LLM predict citations ?” Take the scientific article abstract and other information and predict the
