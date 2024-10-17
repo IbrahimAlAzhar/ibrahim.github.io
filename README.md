@@ -48,7 +48,7 @@ BigData 2024). In this work, we focus on visual-related limitations, which refer
  - “Generate open review from the scholarly article.” Take the text from a scientific article and generate the open review using LLM. 
 - “Generate Limitations from the scholarly article.” Considering various sections and texts from scholarly articles and generating limitation sections using various LLMs and Retrieval Augmented Generation.
  - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
-• “Scientific Image as a Limitation.” We are working on images of scientific articles and using algorithms like
+- “Scientific Image as a Limitation.” We are working on images of scientific articles and using algorithms like
 superpixels or other stuff to improve the quality.
 - “Can LLM predict citations ?” Take the scientific article abstract and other information and predict the
 citations using LLM.
