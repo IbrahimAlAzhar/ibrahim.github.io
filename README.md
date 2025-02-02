@@ -13,6 +13,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 [Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
 
 ### Latest 
+- Got 3MT best paper presentation award in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Reseresarch Paper using LLM and RAG with Text Evaluation framework". 
 - Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
 - Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
 IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
