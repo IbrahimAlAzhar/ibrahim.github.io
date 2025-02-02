@@ -124,7 +124,7 @@ ACM Problem Solving: Over 350 problems were solved by various online judges. Ove
 100 problems from UVa Online Judge
 
 ### Conferences
-<img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="250"> 
+<img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="350"> 
 <img src="IMG_4672.jpg" alt="Logo" width="400" height="250"> 
 <img src="IMG_4741.jpg" alt="Logo" width="400" height="250"> 
 <img src="IMG_5055.jpg" alt="Logo" width="400" height="250"> 
