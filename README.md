@@ -10,7 +10,7 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 [Download my CV](./Ibrahim_Al_Azher_CV.pdf)
 
 ### Blog
-[Blog]([https://github.com/IbrahimAlAzhar/NewsPaper](https://l.facebook.com/l.php?u=https%3A%2F%2Fibrahimalazhar.blogspot.com%2F%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR3vCVlHH_m7Agc9tkBr-laiY3XCHJoNGjftUX3LMiOvSDarEuno3I5ft_E_aem_gucpe6qykmU7xWLztMV4YQ&h=AT0wuI5dTxrmNpq5w6TwcAoqW7NKAmy88NjWmHb4hWW4zNpxMgg8bTk2E7Y74q6bu-xDPsehqcPOArigz0ASrm3qfVb6esQxVtKUD5ZNxw8zV1NUqQpx_S9AYdDQ])
+[Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
 
 ### Latest 
 - Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
