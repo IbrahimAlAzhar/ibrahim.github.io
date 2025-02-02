@@ -122,3 +122,10 @@ subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https
 ### Programming
 ACM Problem Solving: Over 350 problems were solved by various online judges. Over 200 problems from Codeforces,
 100 problems from UVa Online Judge
+
+### Conferences
+<img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="250"> 
+<img src="IMG_4672.jpg" alt="Logo" width="400" height="250"> 
+<img src="IMG_4741.jpg" alt="Logo" width="400" height="250"> 
+<img src="IMG_5055.jpg" alt="Logo" width="400" height="250"> 
+<img src="IMG_5384.JPG" alt="Logo" width="400" height="250"> 
