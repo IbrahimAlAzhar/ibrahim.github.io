@@ -13,12 +13,14 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 [Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
 
 ### Latest 
-- Got 3MT best paper presentation award in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Reseresarch Paper using LLM and RAG with Text Evaluation framework". 
-- Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
-- Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
-IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
-- Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
+- February 2025: Gave presenation on Large Language Models in NIU AI/ML Seminar 
+- December 2024: Got 3MT best paper presentation award in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Reseresarch Paper using LLM and RAG with Text Evaluation framework".
+- October 2024: Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
 BigData 2024) as a poster.
+- September 2024: Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
+- August 2024: Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
+IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
+
 
 ### Education
 - PhD in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
@@ -123,6 +125,14 @@ subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https
 ### Programming
 ACM Problem Solving: Over 350 problems were solved by various online judges. Over 200 problems from Codeforces,
 100 problems from UVa Online Judge
+
+### Seminar
+I am thrilled to get a chance to do a presentation in a seminar organized by the NIU CS department. I tried to give a brief overview of Large Language Models (LLMs), such as
+1. Zero/few-shot learning, 2. Reasoning, Chain/Tree/Graph of thoughts, RLHF, RLAIF 3. Fine-tuning, Prompt tuning, 4. Flash Attention, 5. LLM as a Judge.
+I also talked about the current limitations of LLM, how RAG (Retrieval Augmented Generation) overcomes those problems, and what types of issues still exist in RAG. For example, RAG retrieves noisy information, which may not align with the LLM generator.
+
+full video on youtube: [YouTube](https://www.youtube.com/watch?v=XJ1rsZk6pps) 
+seminar link:  [Seminar](https://www.niuai.org/)
 
 ### Conferences
 <img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="550"> 
