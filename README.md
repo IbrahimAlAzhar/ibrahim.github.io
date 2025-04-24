@@ -13,6 +13,10 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 [Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
 
 ### Latest 
+- April 2025: Gave presenation on Evaluation in Retrieval Augmented Generation (RAG) system in NIU AI/ML Seminar
+- April 2025: Attended and Presenting Poster on Midwest Speech and Langugage Day (MSLD) 2025 at University of Notre Dame, Indiana 
+- March 2025: Succesfully defended PhD Qualifying. 
+- March 2025: Succesfully defended Masters thesis
 - February 2025: Gave presenation on Large Language Models in NIU AI/ML Seminar 
 - December 2024: Got 3MT best paper presentation award in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Reseresarch Paper using LLM and RAG with Text Evaluation framework".
 - October 2024: Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
@@ -47,7 +51,8 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
 section texts such as ‘Abstract,’ ‘Introduction,’ ‘Methodology,’ ‘Related Work,’ ‘Experiment’, and ’Conclusion.’ We experimented with various LLMs such as BART, T5, Pegasus, GPT 3.5, GPT 4, Gemini, and added Retrieval Augmented Generation
 (RAG) with GPT 3.5 to generate the ‘limitation’ of research papers. We found that GPT 3.5 with RAG performs better than other models. We will extend our work by incorporating graph neural networks to generate limitations.
 - I. A. Azher, H. Alhoori, "Mitigating Visual Limitations of Research Papers" has been accepted at 2024 IEEE International Conference on Big Data (IEEE
-BigData 2024). In this work, we focus on visual-related limitations, which refer to issues like the clarity of charts, diagrams, unclear captions or descriptions, or methodological constraints in generating such visual and tabular data using multimodal LLM. 
+BigData 2024). In this work, we focus on visual-related limitations, which refer to issues like the clarity of charts, diagrams, unclear captions or descriptions, or methodological constraints in generating such visual and tabular data using multimodal LLM.
+- Christy Muasher-Kerwin, M Courtney Hughes, Michelle Foster, Ibrahim Al Azher, Hamed Alhoori. ``Exploring Large Language Models for Summarizing and Interpreting an Online Brain Tumor Support Forum." Sage Jounral.  
   
 
   
