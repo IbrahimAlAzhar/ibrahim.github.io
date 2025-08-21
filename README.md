@@ -32,7 +32,7 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
 
 ### Education
 - PhD in Computer Science, Northern Illinois University, DeKalb, United States (August 2023 - Present)
-- MS in Computer Science, Northern Illinois University, DeKalb, United States (August 2023 - Present)
+- MS in Computer Science, Northern Illinois University, DeKalb, United States (August 2023 - May 2025)
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
 
 ### Research Interests:
@@ -47,12 +47,12 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
 I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
 “BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text.”
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
-We proposed BAGELS, a benchmark dataset and framework for automated extraction and generation of limitations from scholarly texts. It supports evaluation of LLM and IR-based methods with multiple annotation layers for faithfulness, coverage, and usefulness.   [📄 PDF](https://arxiv.org/pdf/2505.18207)
+We proposed BAGELS, a benchmark dataset and framework for automated extraction and generation of limitations from scholarly texts. We framed a new evaluation metrics to evluate coverage of LLM generated limitations with ground truth.   [📄 PDF](https://arxiv.org/pdf/2505.18207)
 
 I. A. Azher, V. R. Seethi, A. P. Akella, H. Alhoori.
 “LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles’ Limitations.”
 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), December 2024, Hong Kong.
-We extracted limitations from research articles and applied LLM-based topic modeling integrated with BERTopic to generate titles and topic sentences. LLM summarization produced concise and generalizable “Topic Summaries.” The method combines topic modeling, prompt engineering, and LLM fine-tuning for better comprehension of scientific limitations.  [📄 PDF](https://dl.acm.org/doi/pdf/10.1145/3677389.3702605)
+We extracted limitations from research articles and applied LLM-based topic modeling integrated with BERTopic to generate titles and topic sentences. LLM summarization produced concise and generalizable “Topic Summaries.” The method combines topic modeling, prompt engineering, and LLM fine-tuning for better comprehension of scientific limitations, which shows better performance than zero-shot LLM, fine-tuning LLM, or topic modeling alone.  [📄 PDF](https://dl.acm.org/doi/pdf/10.1145/3677389.3702605)
 
 I. A. Azher, H. Alhoori.
 “Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach.”
@@ -71,7 +71,7 @@ I. A. Azher, H. Alhoori.
 “Mitigating Visual Limitations of Research Papers.”
 2024 IEEE International Conference on Big Data (IEEE BigData), December 2024, Washington D.C.
 We focused on visual limitations in scholarly papers (charts, graphs, diagrams), using multimodal LLMs (Qwen, Llava, LLaMA, GPT-4) to generate clear descriptions. Evaluation employed LLM feedback and LLM-as-a-judge. 
-[📄 PDF](https://arxiv.org/pdf/2503.16561](https://www.researchgate.net/profile/Ibrahim-Al-Azher-2/publication/388099775_Mitigating_Visual_Limitations_of_Research_Papers/links/67ce9387e62c604a0dd6b368/Mitigating-Visual-Limitations-of-Research-Papers.pdf)
+[📄 PDF](https://www.researchgate.net/profile/Ibrahim-Al-Azher-2/publication/388099775_Mitigating_Visual_Limitations_of_Research_Papers/links/67ce9387e62c604a0dd6b368/Mitigating-Visual-Limitations-of-Research-Papers.pdf)
 
 
 I. A. Azher, H. Alhoori.
@@ -83,7 +83,7 @@ We built a knowledge graph from citations and semantic relations, then combined 
 I. A. Azher, S. Ahmed, M. S. Islam.
 “Identifying Author in Bengali Literature by Bi-LSTM with Attention Mechanism.”
 24th International Conference on Computer and Information Technology (ICCIT), December 2021.
-Applied Bi-LSTM with attention to predict authorship in Bengali literature, achieving strong accuracy in literary style classification. [📄 PDF](https://arxiv.org/pdf/2503.16561](https://www.researchgate.net/profile/Ibrahim-Al-Azher-2/publication/388099775_Mitigating_Visual_Limitations_of_Research_Papers/links/67ce9387e62c604a0dd6b368/Mitigating-Visual-Limitations-of-Research-Papers.pdf](https://www.researchgate.net/profile/Ibrahim-Al-Azher-2/publication/358209551_Identifying_Author_in_Bengali_Literature_by_Bi-LSTM_with_Attention_Mechanism/links/672da8e05852dd723caf600c/Identifying-Author-in-Bengali-Literature-by-Bi-LSTM-with-Attention-Mechanism.pdf)
+Applied Bi-LSTM with attention to predict authorship in Bengali literature, achieving strong accuracy in literary style classification. [📄 PDF](https://www.researchgate.net/profile/Ibrahim-Al-Azher-2/publication/358209551_Identifying_Author_in_Bengali_Literature_by_Bi-LSTM_with_Attention_Mechanism/links/672da8e05852dd723caf600c/Identifying-Author-in-Bengali-Literature-by-Bi-LSTM-with-Attention-Mechanism.pdf)
 
 
 T. Azad, I. A. Azher, S. R. Choudhury, H. Alhoori.
@@ -104,7 +104,7 @@ Investigated LLMs for summarizing and interpreting patient discourse in online m
 M. S. R. Chowdhury, N. H. Khan, D. Singha, I. A. Azher, T. Ahmed, G. P. Shashi.
 “Leveraging Self-Sovereign Identity (SSI) with Hyperledger Indy: A Decentralized Identity Ecosystem for Secure Document Management in Bangladesh.”
 27th International Conference on Computer and Information Technology (ICCIT), December 2024, Cox’s Bazar, Bangladesh.
-Proposed a decentralized SSI ecosystem using Hyperledger Indy for secure national-scale document management. [📄 PDF](https://journals.sagepub.com/doi/pdf/10.1177/20552076251337345](https://ieeexplore.ieee.org/abstract/document/11021967)
+Proposed a decentralized SSI ecosystem using Hyperledger Indy for secure national-scale document management. [📄 PDF](https://ieeexplore.ieee.org/abstract/document/11021967)
 
 H. Verma, M. J. Mokarrama, I. A. Azher, H. Alhoori.
 “A Comparative Study of ORKG and LLM Identified Research Contributions.”
@@ -124,26 +124,43 @@ Comprehensive thesis on automated limitation extraction and future work generati
  - “Generate open review from the scholarly article.” Take the text from a scientific article and generate the open review using LLM. 
 - “Generate Limitations from the scholarly article.” Considering various sections and texts from scholarly articles and generating limitation sections using various LLMs and Retrieval Augmented Generation.
  - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
-- “Scientific Image as a Limitation.” We are working on images of scientific articles and using algorithms like
-superpixels or other stuff to improve the quality.
-- “Can LLM predict citations ?” Take the scientific article abstract and other information and predict the
-citations using LLM.
-- “Software vulnerability detection with LLM.” Take the code from various sources and check whether the code is
-vulnerable or not.
+- **I. A. Azher, B. Kedhaar, Z. Guo, S. R. Choudhury, H. Alhoori.**  
+  *“LimAgents: Limitation Generation of Scientific Articles with LLM Agents and RAG”*.  
+  Proposes multiple LLM agents (Extractor, Analyzer, Reviewer, Graph, Image, Self-feedback, and Master Agents) and a novel dual-RAG system that stores cited papers in a 1st-stage RAG database. Improves retrieval with an LLM re-ranker. [Preprint coming soon]
+
+- **I. A. Azher, S. R. Choudhury, H. Alhoori.**  
+  *“A Survey on Retrieval-Augmented Generation Evaluation Frameworks.”*  
+  A comprehensive survey of **RAG evaluation methods**, covering metrics, datasets, and frameworks. [Draft in preparation]
+
+- **I. A. Azher, S. R. Choudhury, H. Alhoori.**  
+  *“A Survey on Scientific Article Idea Exploration and Novelty Measurement.”*  
+  Investigates methods to evaluate novelty and creativity in scientific article ideas using LLMs. [Preprint coming soon]
+
+- **T. Azad, I. A. Azher, S. R. Choudhury, H. Alhoori.**  
+  *“Scientific Knowledge Transfer with LLMs: Recommending Methods Across Disciplines.”*  
+  Explores **method recommendation across fields** by transferring scientific knowledge with LLMs. [Draft in progress]
+
+- **T. Azad, I. A. Azher, H. Alhoori.**  
+  *“How Large Language Models Affect Readability Scores in Scientific Articles.”*  
+  Evaluates the impact of LLMs on **readability metrics** in academic writing. [Preprint coming soon]
+
+- **I. A. Azher, H. Alhoori.**  
+  *“Image Limitations in Scientific Articles.”*  
+  Identifies and generates descriptions for **visual limitations** (charts, graphs, figures) in scientific articles. [Ongoing]
+
+- **I. A. Azher, H. Alhoori.**  
+  *“Trend Prediction of Scientific Articles with Time Series Analysis.”*  
+  Applies **time series forecasting and LLMs** to predict emerging research trends. [Work in progress]
+
+- **B. Kedhar, I. A. Azher, H. Alhoori.**  
+  *“From Text to Scientific Article Flowchart/Diagram Generation.”*  
+  Develops LLM-based methods for generating **flowcharts/diagrams** from text in research papers. [Preprint coming soon]
 <!-- “Instagram image captioning”. Take the images from Instagram, generate the caption using a vision transformer, and check the original caption as a ground truth. -->
 
 
 ### Projects
 - Medical datasets: MIMIC IV. Predicting mortality, hospital length of stay [MIMIC](https://github.com/IbrahimAlAzhar/Work-on-Medical-data-MIMIC-IV-)
-<img src="DL.png" alt="Logo" width="400" height="250"> 
-
-- Amazon Review Analysis: Using data preprocessing, various machine learning
-and deep learning models are applied to classify the customer review for the product. [ARA](https://github.com/IbrahimAlAzhar/Amazon_Review_Analysis_ML/)
-- Image classification: Using CNN, Graph ConvNet, Inception Network, CNN, LeNet, AlexNet, GoogleNet, VGG16, and VGG19. [Image](https://github.com/IbrahimAlAzhar/MachineLearningWorks%7D%7Bhttps://github/Machine-Learning-works)
-<!-- Classification on IMDB, MNIST, Iris dataset: Used several Machine learning models such as KNN, Naive Bayes, Linear Regression, Decision Tree, Ensemble Learning, and various deep learning models like CNN, RNN, GRU, -->
-<!-- and BiLSTM classify. Online Newspaper: It is a web‑based project using Python, Django, and Javascript, and anyone can read news with a monthly subscription. Apply CNN, LeNet, AlexNet, GoogleNet, ResNet, VGG16, and -->
-<!-- VGG19 models as well as transfer learning model on image data -->
-
+<!--<img src="DL.png" alt="Logo" width="400" height="250">  -->
 
 
 ### Experience
@@ -190,9 +207,6 @@ subscription. Use a monthly payment subscription with Stripe.  [Newspaper](https
 ### Machine Learning:
 - Experienced in Data Analysis, Linear Algebra, Probability, and Statistics behind Machine Learning Models (Linear Regression, Logistic, SVM, DT, SVM, NB). Also, Feature Importance, Dimensionality Reduction, Weight Initialization, Batch Normalization, Backpropagation, Activation functions (SGD, ADAM, NAG, Adagrad, Adadelta, RMSProp) 
 
-### Programming
-ACM Problem Solving: Over 350 problems were solved by various online judges. Over 200 problems from Codeforces,
-100 problems from UVa Online Judge
 
 ### Seminar
 I am thrilled to get a chance to do a presentation in a seminar organized by the NIU CS department. I tried to give a brief overview of Large Language Models (LLMs), such as
@@ -202,9 +216,10 @@ I also talked about the current limitations of LLM, how RAG (Retrieval Augmented
 full video on youtube: [YouTube](https://www.youtube.com/watch?v=XJ1rsZk6pps) 
 seminar link:  [Seminar](https://www.niuai.org/)
 
+<!--
 ### Conferences
 <img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="550"> 
 <img src="IMG_4672.jpg" alt="Logo" width="400" height="250"> 
 <img src="IMG_4741.jpg" alt="Logo" width="400" height="250"> 
 <img src="IMG_5055.jpg" alt="Logo" width="400" height="250"> 
-<img src="IMG_5384.JPG" alt="Logo" width="450" height="250"> 
+<img src="IMG_5384.JPG" alt="Logo" width="450" height="250"> -->
