@@ -13,47 +13,104 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 [Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
 
 ### Latest 
-- April 2025: Gave presenation on Evaluation in Retrieval Augmented Generation (RAG) system in NIU AI/ML Seminar
-- April 2025: Attended and Presenting Poster on Midwest Speech and Langugage Day (MSLD) 2025 at University of Notre Dame, Indiana 
-- March 2025: Succesfully defended PhD Qualifying. 
-- March 2025: Succesfully defended Masters thesis
-- February 2025: Gave presenation on Large Language Models in NIU AI/ML Seminar 
-- December 2024: Got 3MT best paper presentation award in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Reseresarch Paper using LLM and RAG with Text Evaluation framework".
-- October 2024: Our work "Mitigating Visual Limitations of Research Papers" has been accepted in 2024 IEEE International Conference on Big Data (IEEE
+- Aug 2025: Our paper 'BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text' accepted on Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, China 
+- Aug 2025: Our paper 'FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Article' accetped on International Workshop on AI for Scientific Communication (Ai4SC 2025), IEEE eScience 2025, Chicago.
+- June 2025: Attended and presented a Poster at the Midwest Machine Learning Symposium at the University of Chicago, Chicago. The topic is LLM Agents and RAG to generate limitations of a scientific article.
+- May 2025: Attended and Presented a Poster at the Greater Chicago Workshop at Loyola University, Chicago. The topic is optimizing the database retrieval system in a scientific article. 
+- April 2025: Gave a presentation on Evaluation in Retrieval Augmented Generation (RAG) system in NIU AI/ML Seminar
+- April 2025: Attended and presented a Poster on Midwest Speech and Language Day (MSLD) 2025 at the University of Notre Dame, Indiana 
+- March 2025: Successfully defended PhD Qualifying. 
+- March 2025: Successfully defended Master's thesis
+- February 2025: Gave a presentation on Large Language Models in the  NIU AI/ML Seminar 
+- December 2024: Got the 3MT best paper presentation award in the 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong, titled "Limitation Generation of Research Paper using LLM and RAG with Text Evaluation framework".
+- October 2024: Our work "Mitigating Visual Limitations of Research Papers" has been accepted for the 2024 IEEE International Conference on Big Data (IEEE
 BigData 2024) as a poster.
-- September 2024: Our work "LimTopic: LLM based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" accepted in 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
-- August 2024: Our work "Limitation Generation of Research Papers with LLms and Retrieval Augmented Generation (RAG)" has been accepted in 11th
-IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA as a poster.
+- September 2024: Our work "LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations" was accepted in the 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong.
+- August 2024: Our work "Limitation Generation of Research Papers with LLMs and Retrieval Augmented Generation (RAG)" has been accepted in the 11th
+IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024), San Diego, CA, as a poster.
 
 
 ### Education
-- PhD in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
-- MS in Computer Science, Northern Illinois University, Dekalb, United States (August 2023 - Present)
+- PhD in Computer Science, Northern Illinois University, DeKalb, United States (August 2023 - Present)
+- MS in Computer Science, Northern Illinois University, DeKalb, United States (August 2023 - Present)
 - BSc in Computer Science, Sylhet Engineering College, Sylhet, Bangladesh (March 2016 - March 2021)
 
 ### Research Interests:
 <img src="LLM.jpg" alt="Logo" width="390" height="255"> 
 - Information Extraction (text and images) in Science of Science, utilizing Large Language Models (LLMs) and Retrieval Augmented Generation (RAG).
 - Utilizing BERTopic, LLM with zero shot, few shots, chain/tree/graph of thoughts, self-consistency, prompt tuning, prefix tuning, fine-tuning with LoRa/QLora/Dora. 
-- Jailbreaking, Evaluation, and Hallucination of LLM and Tiny LLm. 
+- Jailbreaking, Evaluation, and Hallucination of LLM and Tiny LLM. 
 - Optimizing LLM performance: time complexity 0(n) with Mamba (state space models), Flash Attention, KV cache, xLSTM, Deja Vu, Sparse LLM, Galore/Q-Galore, and scalable matrix multiplication.
 - Open Source LLM: Llama, OLMO, Ollama, Dolma, Paloma.
-- Vision: LLM (Llava), Diffusion model, CLIP, BLIP,GAN, Variational Autoencoder, Vision Transformer, Swithc Transformer, a Mixture of Experts, and multi-modal LLM.   
+- Vision: LLM (Llava), Diffusion model, CLIP, BLIP, GAN, Variational Autoencoder, Vision Transformer, Switch Transformer, a Mixture of Experts, and multi-modal LLM.   
 
 ### Published
-- I. A. Azher, S. Ahmed, M. S. Islam, and A. Khatun, ”Identifying Author in Bengali Literature by Bi‑LSTM with Attention Mechanism,”
-2021 24th International Conference on Computer and Information Technology (ICCIT), Dhaka, Bangladesh, 2021,
-pp. 1‑6, doi: 10.1109/ICCIT54785.2021.9689840. Description: Proposed a Bi‑LSTM model with a self‑attention mechanism by Glove embedding to identify the Author. Used Deep Learning models like CNN, RNN, LSTM, GRU, BiLSTM, and Fast text and showed proposed model outperforms.
-- I. A. Azher, V. Reddy, A. P. Akella, H. Alhoori, "LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles Limitations", 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), 2024, Hong Kong. We extracted the scientific article’s limitations sections using a parsing tool. Here, each topic contains the title and ‘Topic Summary.’ This study focuses on effectively extracting and understanding these limitations through topic modeling and text summarization, utilizing the capabilities of LLMs. We extracted limitations from research articles and applied an LLM-based topic modeling integrated with the BERtopic approach to generate a title for each topic and ‘Topic Sentences.’ To enhance comprehension and accessibility, we employed LLM-based text summarization to create concise and generalizable summaries for each topic’s Topic Sentences and produce a ‘Topic Summary.’ Our
-experimentation involved prompt engineering, fine-tuning LLM and BERTopic, and integrating BERTopic with LLM to generate topics, titles, and a summary.
-- I. A. Azher, H. Alhoori, "Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach". 11th
-IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024). We are generating ‘Limitation’ based on other
-section texts such as ‘Abstract,’ ‘Introduction,’ ‘Methodology,’ ‘Related Work,’ ‘Experiment’, and ’Conclusion.’ We experimented with various LLMs such as BART, T5, Pegasus, GPT 3.5, GPT 4, Gemini, and added Retrieval Augmented Generation
-(RAG) with GPT 3.5 to generate the ‘limitation’ of research papers. We found that GPT 3.5 with RAG performs better than other models. We will extend our work by incorporating graph neural networks to generate limitations.
-- I. A. Azher, H. Alhoori, "Mitigating Visual Limitations of Research Papers" has been accepted at 2024 IEEE International Conference on Big Data (IEEE
-BigData 2024). In this work, we focus on visual-related limitations, which refer to issues like the clarity of charts, diagrams, unclear captions or descriptions, or methodological constraints in generating such visual and tabular data using multimodal LLM.
-- Christy Muasher-Kerwin, M Courtney Hughes, Michelle Foster, Ibrahim Al Azher, Hamed Alhoori. ``Exploring Large Language Models for Summarizing and Interpreting an Online Brain Tumor Support Forum." Sage Jounral.  
-  
+I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
+“BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text.”
+The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
+We proposed BAGELS, a benchmark dataset and framework for automated extraction and generation of limitations from scholarly texts. It supports evaluation of LLM and IR-based methods with multiple annotation layers for faithfulness, coverage, and usefulness.
+
+I. A. Azher, V. R. Seethi, A. P. Akella, H. Alhoori.
+“LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles’ Limitations.”
+2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), December 2024, Hong Kong.
+We extracted limitations from research articles and applied LLM-based topic modeling integrated with BERTopic to generate titles and topic sentences. LLM summarization produced concise and generalizable “Topic Summaries.” The method combines topic modeling, prompt engineering, and LLM fine-tuning for better comprehension of scientific limitations.
+
+I. A. Azher, H. Alhoori.
+“Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach.”
+2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), December 2024, Hong Kong.
+We proposed a graph-augmented LLM approach to generate limitations by integrating Retrieval-Augmented Generation (RAG) with citation and semantic graphs. This framework highlights context-aware limitations beyond simple extraction.
+
+I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
+“FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Articles.”
+International Workshop on AI for Scientific Communication (Ai4SC), IEEE eScience 2025, Chicago.
+We developed FutureGen, an LLM-based RAG framework with self-feedback for generating high-quality future work suggestions from research articles.
+
+I. A. Azher, H. Alhoori.
+“Mitigating Visual Limitations of Research Papers.”
+2024 IEEE International Conference on Big Data (IEEE BigData), December 2024, Washington D.C.
+We focused on visual limitations in scholarly papers (charts, graphs, diagrams), using multimodal LLMs (Qwen, Llava, LLaMA, GPT-4) to generate clear descriptions. Evaluation employed LLM feedback and LLM-as-a-judge.
+
+I. A. Azher, H. Alhoori.
+“Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach.”
+11th IEEE International Conference on Data Science and Advanced Analytics (DSAA), October 2024, San Diego, CA.
+We built a knowledge graph from citations and semantic relations, then combined it with LLMs to recommend paper limitations, incorporating subgraphs into the generative process.
+
+I. A. Azher, S. Ahmed, M. S. Islam.
+“Identifying Author in Bengali Literature by Bi-LSTM with Attention Mechanism.”
+24th International Conference on Computer and Information Technology (ICCIT), December 2021.
+Applied Bi-LSTM with attention to predict authorship in Bengali literature, achieving strong accuracy in literary style classification.
+
+T. Azad, I. A. Azher, S. R. Choudhury, H. Alhoori.
+“Predicting Scholarly Impact with Retrieval-Augmented LLMs.”
+Association of Computational Linguistics (ACL), Scholarly Document Processing (SDProc), 2025, Vienna, Austria.
+Introduced a retrieval-augmented LLM pipeline for predicting scholarly impact, integrating metadata, citations, and content signals.
+
+M. Shahzad, J. Wilson, I. A. Azher, H. Alhoori, M. Rahimi.
+“From Theory to Practice: Code Generation Using LLMs for CAPEC and CWE Frameworks.”
+2nd International Workshop on Large Language Models for Code (LLM4Code), ICSE 2025.
+We explored code generation with LLMs for security frameworks (CAPEC, CWE), bridging theoretical vulnerabilities with practical implementation.
+
+C. Muasher-Kerwin, M. C. Hughes, M. Foster, I. A. Azher, H. Alhoori.
+“Exploring Large Language Models for Summarizing and Interpreting an Online Brain Tumor Support Forum.”
+Sage Journal.
+Investigated LLMs for summarizing and interpreting patient discourse in online medical forums, providing insights for healthcare support communities.
+
+M. S. R. Chowdhury, N. H. Khan, D. Singha, I. A. Azher, T. Ahmed, G. P. Shashi.
+“Leveraging Self-Sovereign Identity (SSI) with Hyperledger Indy: A Decentralized Identity Ecosystem for Secure Document Management in Bangladesh.”
+27th International Conference on Computer and Information Technology (ICCIT), December 2024, Cox’s Bazar, Bangladesh.
+Proposed a decentralized SSI ecosystem using Hyperledger Indy for secure national-scale document management.
+
+H. Verma, M. J. Mokarrama, I. A. Azher, H. Alhoori.
+“A Comparative Study of ORKG and LLM Identified Research Contributions.”
+2nd Workshop on Innovation Measurement for Scientific Communication (IMSC), JCDL 2024, Hong Kong.
+Compared ORKG vs LLM-based contribution identification, showing how LLMs can enhance structured research knowledge curation.
+
+I. A. Azher.
+“Limitations of Scientific Articles and Navigated Future Directions with LLM and RAG.”
+Master’s Thesis, Northern Illinois University, May 2025.
+Comprehensive thesis on automated limitation extraction and future work generation using topic modeling, RAG, and multi-agent LLM pipelines.
+
+
 
   
 ### In Progress
