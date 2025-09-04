@@ -3,15 +3,9 @@ Area of interests: Machine Learning, Large Language Models, Natural language pro
 
 Lab Website: [DATALab](https://datalab-niu.github.io/)
 
-<a href="#Education"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Education</button></a>
-<a href="#Research Interests"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Interests</button></a>
-<a href="#Research Experience"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Research Experience</button></a> 
-
-### CV
-[Download my CV](./Ibrahim_Al_Azher_CV__long___main_ (1).pdf)
-
-### Blog
-[Blog](https://ibrahimalazhar.blogspot.com/?fbclid=IwY2xjawILtoVleHRuA2FlbQIxMAABHe8JWUcf-bsCBz22QGv6VqJjdcIcmg0aN-1RfcsyI69INqsS6ejcjl-38Q_aem_gucpe6qykmU7xWLztMV4YQ) 
+<a href="./Ibrahim_Al_Azher_CV__long___main_ (1).pdf"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Download CV</button></a>
+<a href="https://www.linkedin.com/in/ibrahim-al-azhar-a68821158/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">LinkedIn</button></a>
+<a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
 - Aug 2025: Our paper 'BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text' accepted on Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, China 
