@@ -42,7 +42,7 @@ IEEE International Conference on Data Science and Advanced Analytics (DSAA 2024)
 I. A. Azher, M. J. Mokarrama, Z. Guo, S. R. Choudhury, H. Alhoori.
 “BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text.”
 The 2025 Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025.
-We proposed BAGELS, a benchmark dataset and framework for automated extraction and generation of limitations from scholarly texts. We framed a new evaluation metrics to evluate coverage of LLM generated limitations with ground truth.   [📄 PDF](https://arxiv.org/pdf/2505.18207)
+We proposed BAGELS, a benchmark dataset and framework for automated extraction and generation of limitations from scholarly texts. We framed a new evaluation metrics to evluate coverage of LLM generated limitations with ground truth.   [📄 PDF](https://arxiv.org/pdf/2505.18207) [📄 Dataset](https://huggingface.co/datasets/IbrahimAlAzhar/limitation-generation-dataset-bagels)
 
 I. A. Azher, V. R. Seethi, A. P. Akella, H. Alhoori.
 “LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles’ Limitations.”
@@ -121,7 +121,7 @@ Comprehensive thesis on automated limitation extraction and future work generati
  - “Design a scientific paper architecture/flowcharts from texts with LLM.” Take images with captions from scientific articles and train a vision language multimodal LLM. Then, take the caption and generate the flowcharts or architecture of the research paper. -->
 - **I. A. Azher, B. Kedhaar, Z. Guo, S. R. Choudhury, H. Alhoori.**  
   *“LimAgents: Limitation Generation of Scientific Articles with LLM Agents and RAG”*.  
-  Proposes multiple LLM agents (Extractor, Analyzer, Reviewer, Graph, Image, Self-feedback, and Master Agents) and a novel dual-RAG system that stores cited papers in a 1st-stage RAG database. Improves retrieval with an LLM re-ranker. [Preprint coming soon]
+  Proposes multiple LLM agents (Extractor, Analyzer, Reviewer, Graph, Image, Self-feedback, and Master Agents) and a novel dual-RAG system that stores cited papers in a 1st-stage RAG database. Improves retrieval with an LLM re-ranker. [Preprint coming soon][📄 Dataset](https://huggingface.co/datasets/iaadlab/LimAgents_limitation_data_scientific_papers_with_cited_papers)
 
 - **I. A. Azher, S. R. Choudhury, H. Alhoori.**  
   *“A Survey on Retrieval-Augmented Generation Evaluation Frameworks.”*  
