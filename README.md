@@ -1,4 +1,6 @@
-# Machine Learning Researcher
+# PhD Student
+Northern Illinois University, DeKalb, IL, USA
+Research Assistant, DATALab
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
 Lab Website: [DATALab](https://datalab-niu.github.io/)
