@@ -213,10 +213,11 @@ I am thrilled to get a chance to do a presentation in a seminar organized by the
 I also talked about the current limitations of LLM, how RAG (Retrieval Augmented Generation) overcomes those problems, and what types of issues still exist in RAG. For example, RAG retrieves noisy information, which may not align with the LLM generator.
 
 full video on youtube: [YouTube](https://www.youtube.com/watch?v=XJ1rsZk6pps) 
-seminar link:  [Seminar](https://www.niuai.org/)
+seminar link:  [Seminar](https://www.niuai.org/) 
+2. How to integrated Reinforcement Learning on LLM Agents [Website](https://www.niuai.org/presentations/agents-rl/)  
 
-2. Adversarial Attacks and Defense on LLM
-3. How to integrated Reinforcement Learning on LLM Agents [Website](https://www.niuai.org/presentations/agents-rl/) 
+3. Adversarial Attacks and Defense on LLM
+
 <!--
 ### Conferences
 <img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="550"> 
