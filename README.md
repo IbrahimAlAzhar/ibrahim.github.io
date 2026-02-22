@@ -10,6 +10,8 @@ Lab Website: [DATALab](https://datalab-niu.github.io/)
 <a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
+- February 2026: Gave a talk about 'How to integrate Reinforcement Learning on LLM Agents' in NIU AI/ML seminar. 
+- November 2025: Attended EMNLP 2025, Suzhou, China and Presented our work. The city is very nice. 
 - Aug 2025: Our paper 'BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text' accepted on Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, China 
 - Aug 2025: Our paper 'FutureGen: A RAG-based Approach to Generate the Future Work of Scientific Article' accetped on International Workshop on AI for Scientific Communication (Ai4SC 2025), IEEE eScience 2025, Chicago.
 - June 2025: Attended and presented a Poster at the Midwest Machine Learning Symposium at the University of Chicago, Chicago. The topic is LLM Agents and RAG to generate limitations of a scientific article.
@@ -213,6 +215,8 @@ I also talked about the current limitations of LLM, how RAG (Retrieval Augmented
 full video on youtube: [YouTube](https://www.youtube.com/watch?v=XJ1rsZk6pps) 
 seminar link:  [Seminar](https://www.niuai.org/)
 
+2. Adversarial Attacks and Defense on LLM
+3. How to integrated Reinforcement Learning on LLM Agents [Website](https://www.niuai.org/presentations/agents-rl/) 
 <!--
 ### Conferences
 <img src="IMG_2038 (1).jpg" alt="Logo" width="400" height="550"> 
