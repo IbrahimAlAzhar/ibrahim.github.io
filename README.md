@@ -10,7 +10,8 @@ Lab Website: [DATALab](https://datalab-niu.github.io/)
 <a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
-- We successfully released our LimAgents paper web version for generation limitations with Agentic AI approach: [Website](https://limagents-novagents-live.onrender.com)
+- April 2026: Attending Midwest Speech and Language Day (MSLD) at University of Illinois at Urbana Champaign to present our work 'LimAgents: a mulit agent framework for limitation generation' as poster. 
+- April 2026: We successfully released our LimAgents paper web version for generation limitations with Agentic AI approach: [Website](https://limagents-novagents-live.onrender.com)
 - February 2026: Gave a talk about 'How to integrate Reinforcement Learning on LLM Agents' in NIU AI/ML seminar. 
 - November 2025: Attended EMNLP 2025, Suzhou, China and Presented our work. The city is very nice. 
 - Aug 2025: Our paper 'BAGELS: Benchmarking the Automated Generation and Extraction of Limitations from Scholarly Text' accepted on Conference on Empirical Methods in Natural Language Processing (EMNLP), 2025, China 
