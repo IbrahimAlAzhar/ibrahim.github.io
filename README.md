@@ -10,6 +10,9 @@ Lab Website: [DATALab](https://datalab-niu.github.io/)
 <a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
+- June 2026: Got 3rd place in USAII hackathon idea sharing 
+- June 2026: Accepted our Poster in Midwest Machine Learning Symposium 2026 at Purdue Univeristy. Got Travel grant and hotel. Thanks MMLS!
+- May 2026: Got NIU Graudate Student Award for 2026-27
 - April 2026: Attending Midwest Speech and Language Day (MSLD) at University of Illinois at Urbana Champaign to present our work 'LimAgents: a mulit agent framework for limitation generation' as poster. 
 - April 2026: We successfully released our LimAgents paper web version for generation limitations with Agentic AI approach: [Website](https://limagents-novagents-live.onrender.com)
 - February 2026: Gave a talk about 'How to integrate Reinforcement Learning on LLM Agents' in NIU AI/ML seminar. 
