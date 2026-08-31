@@ -10,6 +10,8 @@ Lab Website: [DATALab](https://datalab-niu.github.io/)
 <a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
+- August 2026: Accepted JCDL 2026 as a short paper. Paper is "LimAgents: Multi-Agent LLMs for Generating Research Limitations". 
+- July 2026: Got 2nd place in Ignite64 hackathon. Project is "MedEquity Advisors: Evidence-Grounded, Equity Aware Healthcare decision support". 
 - June 2026: Got 3rd place in USAII hackathon idea sharing 
 - June 2026: Accepted our Poster in Midwest Machine Learning Symposium 2026 at Purdue Univeristy. Got Travel grant and hotel. Thanks MMLS!
 - May 2026: Got NIU Graudate Student Award for 2026-27
