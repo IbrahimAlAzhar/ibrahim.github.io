@@ -3,13 +3,17 @@ Northern Illinois University, DeKalb, IL, USA
 Research Assistant, DATALab
 Area of interests: Machine Learning, Large Language Models, Natural language processing, Text Extraction, Computer Vision
 
-Lab Website: [DATALab](https://datalab-niu.github.io/)
+Lab Website: [DATALab](https://datalab-niu.github.io/) 
 
-<a href="./Ibrahim_Al_Azher_CV__long___main_ (1).pdf"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Download CV</button></a>
+<a href="https://scholar.google.com/citations?user=_6iQgsUAAAAJ&hl=en&authuser=1"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Google Scholar</button></a>
+<a href="./cv.pdf"><button style="background-color: #4CAF50; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Download CV</button></a>
 <a href="https://www.linkedin.com/in/ibrahim-al-azhar-a68821158/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">LinkedIn</button></a>
 <a href="https://ibrahimalazhar.blogspot.com/"><button style="background-color: #008CBA; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer;">Blog</button></a>
 
 ### Latest 
+- Oct 2026: Honored to get NSF travel grant. 
+- Sept 2026: Accepted paper in AI4SciSci Workshop under JCDL 2026. Title: FutureLens: Longitudinal Topic Patterns in Scholarly Text and Future-Work References  
+- Sept 2026: Accepted paper in JCDL DC, title: Towards Automated Discovery, Evaluation, and Generation of Scientific Limitations and Future Directions 
 - August 2026: Accepted JCDL 2026 as a short paper. Paper is "LimAgents: Multi-Agent LLMs for Generating Research Limitations". 
 - July 2026: Got 2nd place in Ignite64 hackathon. Project is "MedEquity Advisors: Evidence-Grounded, Equity Aware Healthcare decision support". 
 - June 2026: Got 3rd place in USAII hackathon idea sharing 
@@ -58,7 +62,16 @@ We proposed BAGELS, a benchmark dataset and framework for automated extraction a
 I. A. Azher, V. R. Seethi, A. P. Akella, H. Alhoori.
 “LimTopic: LLM-based Topic Modeling and Text Summarization for Analyzing Scientific Articles’ Limitations.”
 2024 ACM/IEEE Joint Conference on Digital Libraries (JCDL), December 2024, Hong Kong.
-We extracted limitations from research articles and applied LLM-based topic modeling integrated with BERTopic to generate titles and topic sentences. LLM summarization produced concise and generalizable “Topic Summaries.” The method combines topic modeling, prompt engineering, and LLM fine-tuning for better comprehension of scientific limitations, which shows better performance than zero-shot LLM, fine-tuning LLM, or topic modeling alone.  [📄 PDF](https://dl.acm.org/doi/pdf/10.1145/3677389.3702605)
+We extracted limitations from research articles and applied LLM-based topic modeling integrated with BERTopic to generate titles and topic sentences. LLM summarization produced concise and generalizable “Topic Summaries.” The method combines topic modeling, prompt engineering, and LLM fine-tuning for better comprehension of scientific limitations, which shows better performance than zero-shot LLM, fine-tuning LLM, or topic modeling alone.  [📄 PDF](https://dl.acm.org/doi/pdf/10.1145/3677389.3702605) 
+
+I. A. Azhar, Z. Guo, and H. Alhoori. 
+"LimAgents: Limitation Generation of Scientific Article with LLM Agents and RAG".  ACM/IEEE Joint Conference on Digital Libraries, 2026, Texas." 
+Generating scientific article limitations using multiple LLM Agents, such as an extractor, analyzer, reviewer, and citation. A judge will evaluate and provide feedback to improve performance.  
+
+I. A. Azhar, H. Alhoori. 
+"Towards Automated Analysis of Scientific Limitations and FutureWork." ACM/IEEE Joint Conference on Digital Libraries 2026, Dallas, Texas."
+
+
 
 I. A. Azher, H. Alhoori.
 “Generating Suggestive Limitations from Research Articles Using LLM and Graph-Based Approach.”
