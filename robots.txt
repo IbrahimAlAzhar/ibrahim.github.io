@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://ibrahimalazhar.github.io/ibrahim.github.io/sitemap.xml
