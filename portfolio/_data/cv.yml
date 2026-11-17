@@ -1,0 +1,144 @@
+cv:
+  name: Ibrahim Al Azher
+  label: Ph.D. Researcher in Computer Science · AI for Science · Science of Science
+  email: ibrahimalazhar264@gmail.com
+  location: DeKalb, IL
+  website: https://ibrahimalazhar.github.io/ibrahim.github.io/
+  image: ""
+  summary: Ph.D. researcher developing verifiable AI systems that expand rather than narrow scientific understanding. Expertise spans evidence-grounded multi-agent reasoning, reinforcement-learning post-training with verifiable process-level rewards, scientific information retrieval and knowledge graphs, evaluation design, and mechanistic interpretability. Experienced in distributed multi-GPU training and inference and quality–cost evaluation.
+
+  social_networks:
+    - network: GitHub
+      username: IbrahimAlAzhar
+    - network: LinkedIn
+      username: ibrahim-al-azhar-a68821158
+    - network: Google Scholar
+      username: _6iQgsUAAAAJ
+
+  sections:
+    Education:
+      - institution: Northern Illinois University
+        location: DeKalb, IL
+        url: https://www.niu.edu/
+        area: Computer Science
+        studyType: Ph.D.
+        start_date: 2023-08
+        end_date: Present
+        highlights:
+          - "GPA: 3.79. Expected graduation Aug. 2027."
+          - Passed Ph.D. qualifying exam (Mar. 2025).
+
+      - institution: Northern Illinois University
+        location: DeKalb, IL
+        url: https://www.niu.edu/
+        area: Computer Science
+        studyType: M.S.
+        start_date: 2023-08
+        end_date: 2025-05
+        highlights:
+          - "GPA: 3.72"
+          - "Thesis: Limitations of Scientific Articles and Navigated Future Directions with LLM and RAG."
+
+      - institution: Shahjalal University of Science and Technology
+        location: Sylhet, Bangladesh
+        area: Computer Science
+        studyType: B.Sc.
+        start_date: 2016-03
+        end_date: 2021-03
+        highlights:
+          - "GPA: 3.69"
+
+    Experience:
+      - company: Northern Illinois University
+        position: Research Assistant
+        location: DeKalb, IL
+        start_date: 2023-08
+        end_date: Present
+        highlights:
+          - Designed hierarchical multi-agent systems for scientific critique and synthesis using specialist roles, shared evidence memory, retrieval-augmented generation, tool-use trajectories, and iterative feedback.
+          - Built scalable scholarly search pipelines with BM25/dense hybrid retrieval, reranking, citation graphs, GraphSAGE, and a 120K-paper evidence index; developed atomic limitation-level evaluation.
+          - Developed role-specific LoRA/SFT/DPO pipelines with procedure-diversified rollouts, process rewards, and controlled ablations; pursuing step-attributed GRPO experiments.
+          - Deployed LLMs across GPUs with vLLM, Ray, tensor parallelism, FP16/BF16, and quantization; profiled GPU-hours, latency, throughput, and quality–cost trade-offs.
+          - Investigated manuscript-based prompt injection, gradient-optimized attacks, provenance-aware detection, and causal evidence interference via activation patching.
+          - Co-authored interdisciplinary research in biomedical text, multimodal scientific figures, and code security; contributed to NSF and DARPA proposal development.
+
+      - company: Northern Illinois University
+        position: Teaching Assistant
+        location: DeKalb, IL
+        start_date: 2023-08
+        end_date: 2024-05
+        highlights:
+          - C++, Data Structures, and Algorithm Analysis; ran weekly lab sessions for 50+ students.
+
+      - company: BYSL Global Technology Group
+        position: Software Engineer
+        location: Dhaka, Bangladesh
+        start_date: 2021-06
+        end_date: 2022-02
+        highlights:
+          - Developed and tested ERP, sales, inventory, purchasing, website, and e-commerce modules in Python/Odoo using XML, JavaScript, PostgreSQL, jQuery, and Linux.
+
+      - company: Unisoft Systems Limited
+        position: Junior Software Engineer
+        location: Dhaka, Bangladesh
+        start_date: 2020-12
+        end_date: 2021-05
+        highlights:
+          - Gathered requirements, evaluated technologies, developed Python applications and object-oriented database modules, and wrote SQL reports.
+
+    Awards:
+      - title: NSF Travel Grant
+        date: 2026-09
+        awarder: ACM/IEEE JCDL 2026, Dallas
+      - title: Ignite64 AI Hackathon — 2nd Place
+        date: 2026-06
+        awarder: Ignite64
+        summary: "MedEquity Advisors: evidence-grounded, equity-aware healthcare decision support."
+      - title: USAII Global AI Hackathon — 3rd Place (Idea Sharing), Main-Round Finalist
+        date: 2026-06
+        awarder: USAII
+      - title: MMLS Travel Grant
+        date: 2026-06
+        awarder: Midwest Machine Learning Symposium, Purdue University
+      - title: NIU Outstanding Graduate Student Summer Fellowship
+        date: 2026-05
+        awarder: Northern Illinois University
+      - title: Google Cloud (GCP) Research Grants
+        date: 2025-12
+        awarder: Google
+        summary: Feb. 2024 – Jan. 2025 and Dec. 2025 – Dec. 2026.
+      - title: 3MT Best Paper Presentation Award
+        date: 2024-12
+        awarder: ACM/IEEE JCDL 2024, Hong Kong
+      - title: SIGIR Student Travel Grant
+        date: 2024-12
+        awarder: ACM SIGIR (JCDL 2024)
+      - title: IEEE Travel Grant
+        date: 2024-10
+        awarder: IEEE DSAA 2024, San Diego
+      - title: NIU Student Travel Grants
+        date: 2024-12
+        awarder: Northern Illinois University
+        summary: JCDL 2024, IEEE eScience 2025, EMNLP 2025.
+
+    Skills:
+      - name: Languages & Software
+        icon: fa-solid fa-code
+        keywords: "Python, C/C++, Java, PHP, SQL, Bash, Linux, Git, Docker; PyTorch, TensorFlow/Keras, scikit-learn, Hugging Face, Weights & Biases"
+      - name: LLM Learning & Agents
+        icon: fa-solid fa-robot
+        keywords: "SFT, DPO, GRPO, RLHF/RLAIF-style alignment, verifiable/custom rewards, LoRA/QLoRA/PEFT, multi-agent coordination, tool-use trajectories, AutoGen, MCP, LangChain, LangGraph, LlamaIndex"
+      - name: GPU & Distributed AI
+        icon: fa-solid fa-microchip
+        keywords: "vLLM, Ray, multi-GPU deployment, tensor parallelism, FP16/BF16, quantization, inference batching, GPU-hour/latency/throughput profiling; DDP/FSDP, KV caching, FlashAttention"
+      - name: Scientific AI & Retrieval
+        icon: fa-solid fa-magnifying-glass
+        keywords: "RAG, BM25/dense hybrid search, reranking, FAISS, knowledge/citation graphs, GraphSAGE, BERTopic, NMF/LDA, claim verification, vision-language models, judge calibration"
+      - name: Applications & Engineering
+        icon: fa-solid fa-server
+        keywords: "Django, Flask, FastAPI, Odoo, Laravel, HTML/CSS/JavaScript, PostgreSQL, SQLite, Neo4j; AWS, Azure, GCP/Vertex AI"
+
+    Interests:
+      - name: Research
+        icon: fa-solid fa-flask
+        keywords: "AI for science, science of science, multi-agent LLMs, verifiable RL, scientific claim verification, robustness, mechanistic interpretability"

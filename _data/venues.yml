@@ -1,0 +1,43 @@
+"JCDL":
+  url: https://www.jcdl.org/
+  color: "#1f6f8b"
+
+"JCDL DC":
+  url: https://www.jcdl.org/
+  color: "#1f6f8b"
+
+"JCDL IMSC":
+  url: https://www.jcdl.org/
+  color: "#1f6f8b"
+
+"AI4SciSci":
+  color: "#2a9d8f"
+
+"EMNLP":
+  url: https://aclanthology.org/
+  color: "#c0392b"
+
+"ACL SDP":
+  url: https://aclanthology.org/
+  color: "#c0392b"
+
+"eScience":
+  color: "#6c5ce7"
+
+"BigData":
+  color: "#e67e22"
+
+"DSAA":
+  color: "#d35400"
+
+"ICSE LLM4Code":
+  color: "#2c3e50"
+
+"SAGE":
+  color: "#8e44ad"
+
+"ICCIT":
+  color: "#16a085"
+
+"Thesis":
+  color: "#7f8c8d"

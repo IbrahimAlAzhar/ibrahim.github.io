@@ -1,0 +1,13 @@
+# Social / contact links shown on the home page (in this order).
+# Keys come from the jekyll-socials plugin: https://github.com/george-gca/jekyll-socials
+email: ibrahimalazhar264@gmail.com
+scholar_userid: _6iQgsUAAAAJ
+github_username: IbrahimAlAzhar
+linkedin_username: ibrahim-al-azhar-a68821158
+research_gate_profile: Ibrahim-Al-Azher-2
+blogger_url: https://ibrahimalazhar.blogspot.com/
+cv_pdf: /assets/pdf/Ibrahim_Al_Azher_CV.pdf
+huggingface:
+  logo: https://huggingface.co/front/assets/huggingface_logo-noborder.svg
+  title: Hugging Face
+  url: https://huggingface.co/IbrahimAlAzhar
